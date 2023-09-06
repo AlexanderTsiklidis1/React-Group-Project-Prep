@@ -15,10 +15,10 @@ Your prep assignment submission should include the following components.  Rememb
 ### 1. Trello Board
 Create a Trello board that includes all project members (including instructors). Use the board to outline your project plan, tasks, and progress. This will serve as a dynamic tool for task management and collaboration.  Invite your instructional team as collaborators on this board.
 
-### 3. Component Architecture
+### 2. Component Architecture
 Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help you better understand the structure of your application.  Invite your instructional team as collaborators on this document.
 
-### 4. Wireframes
+### 3. Wireframes
 Develop wireframes for both mobile and desktop views. Consider different screen sizes for tablets, desktops, and phones. This will guide your UI design and ensure a consistent user experience across devices.  Invite your instructional team as collaborators on this document.
 
 ### 4. Group Norms
