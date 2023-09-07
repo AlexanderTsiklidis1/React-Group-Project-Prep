@@ -1,4 +1,4 @@
-# React-Group-Projcet-Prep
+# React-Group-Project-Prep
 
 Welcome to the React Final Group Project! 
  
