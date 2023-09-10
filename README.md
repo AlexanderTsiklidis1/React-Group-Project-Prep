@@ -12,7 +12,7 @@ Group work means delegating responsibility between team members and meating agre
 
 Your prep assignment submission should include the following components.  Remember, this work can and should be split amongst team members:
 ### 1. Problem Solved
-Write a one to three sentence summary of what problem for which your application is providing a solution.  Consider the following when deciding on your problem:
+Provide a one to three sentence summary of the problem that your application aims to solve. Take into consideration the following points when determining your problem:
  * Who are you users? 
  * What industry does this serve?
  * What are your competitors?
