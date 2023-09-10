@@ -11,17 +11,22 @@ Group work means delegating responsibility between team members and meating agre
 ## Assignment Requirements
 
 Your prep assignment submission should include the following components.  Remember, this work can and should be split amongst team members:
-
-### 1. Trello Board
+### 1. Problem Solved
+Write a one to three sentence summary of what problem for which your application is providing a solution.  Consider the following when deciding on your problem:
+ * Who are you users? 
+ * What industry does this serve?
+ * What are your competitors?
+ * How will this be monetized?
+### 2. Trello Board
 Create a Trello board that includes all project members (including instructors). Use the board to outline your project plan, tasks, and progress. This will serve as a dynamic tool for task management and collaboration.  Invite your instructional team as collaborators on this board.
 
-### 2. Component Architecture
+### 3. Component Architecture
 Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help you better understand the structure of your application.  Invite your instructional team as collaborators on this document.
 
-### 3. Wireframes
+### 4. Wireframes
 Develop wireframes for both mobile and desktop views. Consider different screen sizes for tablets, desktops, and phones. This will guide your UI design and ensure a consistent user experience across devices.  Invite your instructional team as collaborators on this document.
 
-### 4. Group Norms
+### 5. Group Norms
 Establish a set of group norms that outline how you'll communicate, make decisions, and handle conflicts. Clear norms will enhance collaboration and create a positive working environment.  This is a contract that you will all agree upon to work together on this project.  It should include
 
 * When we will meet during the weekend to work
@@ -34,7 +39,7 @@ Use this [worksheet to help establish your team norms](https://www.ccl.org/artic
 
 Invite your instructional team as collaborators on this document.
 
-### 5. GitHub Repository
+### 6. GitHub Repository
 Create a GitHub repository for your project. Make sure to include all team members as collaborators. This will be your central hub for version control and collaborative coding.  Select one fellow to create and manage this repository.   Make sure this repository is public and shared with your instructional team. 
 
 Keep in mind it is the expectation that every team member contribute a Pull Request to the main repository and git history will be monitored to see who is contributing what code.
