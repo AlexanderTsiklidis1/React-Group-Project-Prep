@@ -12,7 +12,8 @@ Your prep assignment submission should include the following components. Remembe
 ## 1. Problem Solved
 Provide a one to three sentence summary of the problem that your application aims to solve. Take into consideration the following points when determining your problem:
 
-## User stories: -A user will be able to see 4 random recipes when the page is loaded. -
+## User stories: 
+-A user will be able to see 4 random recipes when the page is loaded. -
 A user will be able to search for recipes using search bar and inputing the ingredient name. 
 -A user will be able to create a new recipe by clicking a button and inputing the necessary information into a form. 
 -A user will be able to delete a recipe by clicking a remove button on the display card. 
